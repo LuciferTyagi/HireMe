@@ -1,9 +1,11 @@
 import Header from "./Header"
+// import Hero from "./Hero"
 
 const Home = () => {
   return (
-    <div>
+    <div className="h-screen bg-[#FAFAFA]">
         <Header/>
+        
     </div>
   )
 }

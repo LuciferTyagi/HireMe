@@ -8,6 +8,9 @@ export default {
     extend: {
       fontFamily: {
         clash: ['ClashDisplay-Regular', 'sans-serif'],
+        indie: ['Indie Flower', 'serif'],
+        pacifico: ['Pacifico', 'serif'],
+        tajawal: ['Tajawal', 'serif'],
       },
     },
   },
